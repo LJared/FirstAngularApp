@@ -1,5 +1,14 @@
 # PrimeraAppAngular
 
+# Install Node.js
+https://nodejs.org/en/download/
+
+# To install Angular, open the terminal and execute:
+`npm install -g @angular/cli`
+
+# To create a new Angular project:
+`ng new PROJECT_NAME`
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.0.
 
 ## Development server
